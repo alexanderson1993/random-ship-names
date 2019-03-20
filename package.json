@@ -1,0 +1,22 @@
+{
+  "name": "random-ship-names",
+  "version": "1.0.0",
+  "description": "Generates a random ship name based on the name lists from Endless Sky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderson1993/random-ship-names.git"
+  },
+  "keywords": [
+    "spaceship"
+  ],
+  "author": "Alex Anderson <alexanderson1993>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/alexanderson1993/random-ship-names/issues"
+  },
+  "homepage": "https://github.com/alexanderson1993/random-ship-names#readme"
+}
